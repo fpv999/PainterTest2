@@ -1,0 +1,1 @@
+enum AppTab { activity, home, history, profile }

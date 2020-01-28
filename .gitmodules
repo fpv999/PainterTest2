@@ -1,0 +1,6 @@
+[submodule "android/3rdparty/blessed-android"]
+	path = android/3rdparty/blessed-android
+url=https://github.com/weliem/blessed-android.git
+[submodule "3rdparty/poco"]
+	path = 3rdparty/poco
+	url = https://github.com/pocoproject/poco.git
